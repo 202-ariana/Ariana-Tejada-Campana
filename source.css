@@ -70,3 +70,25 @@ header {
     margin-left: 50px;
     text-align: left;
 }
+
+.j {
+    margin-right: 20px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+
+.title {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #bba1b4;
+  color: rgb(54, 49, 49);
+  text-decoration: none;
+  border-radius: 5px;
+}
+.btn:hover {
+  background-color: #d89eca;
+}
